@@ -65,5 +65,5 @@ Clermont, FL • (352) 449-0037 • swokamoto@gmail.com
 - **Full-Stack Web Development Certificate** | University of Central Florida | 2024
 
 <p align="left">
-  <img src="https://api.boot.dev/v1/users/public/cb898e26-349c-43d6-8728-7645b16be56d/thumbnail" >
+  <img src="https://api.boot.dev/v1/users/public/cb898e26-349c-43d6-8728-7645b16be56d/thumbnail" alt="Scott Okamoto Boot.dev profile thumbnail" >
 </p>
