@@ -45,4 +45,14 @@ Server-backed application for creating and persisting interactive garden layouts
 
 ---
 
+## 📚 Continuous Learning
+
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/cb898e26-349c-43d6-8728-7645b16be56d/thumbnail" alt="Boot.dev progress for Scott Okamoto">
+</p>
+
+Currently leveling up backend engineering skills through structured coursework and projects.
+
+---
+
 Open to full-time and contract opportunities in backend or full-stack development roles.
