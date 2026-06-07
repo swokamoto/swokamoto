@@ -31,6 +31,7 @@ Server-backed application for creating and persisting interactive garden layouts
 - **Tech**: Node.js, PostgreSQL, Sequelize  
 - **[GitHub](https://github.com/swokamoto/zenGarden2)**  
 - **[Live](https://zengarden-5q63.onrender.com/)**
+- **[System Design Breakdown](https://github.com/swokamoto/zen-garden-system-design)**
 
 ---
 
